@@ -94,7 +94,7 @@ body {
 }
 
 .btn-buy {
-    background-color: green;
+    background-color:red;
     border-radius: 50px;
     color: white;
     border: none;
@@ -103,3 +103,4 @@ body {
     margin-top: 5px;
 
 }
+
