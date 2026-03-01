@@ -85,6 +85,7 @@ body {
 
 .btn-cart {
     background-color: blue;
+    border-radius: 50px;
     color: white;
     border: none;
     padding: 6px;
@@ -94,9 +95,11 @@ body {
 
 .btn-buy {
     background-color: green;
+    border-radius: 50px;
     color: white;
     border: none;
     padding: 6px;
     width: 100%;
     margin-top: 5px;
+
 }
